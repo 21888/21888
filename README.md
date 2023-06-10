@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 💻 I’m now an indie developer
-- 🌱 I’m currently learning `Android Reverse` `Js Reverse` `Golang` `...`
+- 🌱 I’m currently learning `Reverse` `Golang` `PyTorch` `Diffusion Model` `...`
 
 <!--
 ## 📊 My stats
