@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 💻 I’m now an indie developer
-- 🌱 I’m good at using  `React`
+- 🌱 I’m learning...
 
 <!--
 ## 📊 My stats
