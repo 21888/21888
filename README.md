@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 💻 I’m now an indie developer
-- 🌱 I’m learning...
+- 🌱 I’m good at `Java` `JavaScript` `PHP` `Python` `Go` `C#` and `Vue` and a little `React`
 
 <!--
 ## 📊 My stats
