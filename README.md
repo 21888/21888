@@ -31,5 +31,3 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-### Visitors
-![Visitor Count](https://profile-counter.glitch.me/21888/count.svg)
